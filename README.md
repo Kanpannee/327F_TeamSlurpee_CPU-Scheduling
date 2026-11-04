@@ -1,4 +1,5 @@
 CPU Scheduling Simulator Operating Systems
+
 รายวิชา: CS422 Operating Systems (OS)
 1.Project Overview
       CPU Scheduling Simulator เป็นโปรแกรมจำลองการจัดตารางการทำงานของ CPU (CPU Scheduling) ที่พัฒนาขึ้นเพื่อศึกษาและทำความเข้าใจหลักการทำงานของอัลกอริทึมการจัดตาราง CPU ในระบบปฏิบัติการ (Operating Systems)
