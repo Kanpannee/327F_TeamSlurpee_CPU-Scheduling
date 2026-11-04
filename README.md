@@ -5,7 +5,7 @@ CPU Scheduling Simulator Operating Systems
 1.Project Overview
       CPU Scheduling Simulator เป็นโปรแกรมจำลองการจัดตารางการทำงานของ CPU (CPU Scheduling) ที่พัฒนาขึ้นเพื่อศึกษาและทำความเข้าใจหลักการทำงานของอัลกอริทึมการจัดตาราง CPU ในระบบปฏิบัติการ (Operating Systems)
       
-โปรแกรมช่วยให้ผู้ใช้งานสามารถกำหนดจำนวน Process และ Burst Time ของแต่ละ Process จากนั้นเลือกอัลกอริทึมที่ต้องการทดสอบ เพื่อแสดงลำดับการทำงานผ่าน Gantt Chart พร้อมคำนวณค่าต่าง ๆ ที่เกี่ยวข้อง เช่น Start Time, Completion Time, Turnaround Time และ Waiting Time
+       โปรแกรมช่วยให้ผู้ใช้งานสามารถกำหนดจำนวน Process และ Burst Time ของแต่ละ Process จากนั้นเลือกอัลกอริทึมที่ต้องการทดสอบ เพื่อแสดงลำดับการทำงานผ่าน Gantt Chart พร้อมคำนวณค่าต่าง ๆ ที่เกี่ยวข้อง เช่น Start Time, Completion Time, Turnaround Time และ Waiting Time
 
       โปรแกรมรองรับอัลกอริทึมทั้งหมด 3 รูปแบบ ได้แก่ FCFS, SJF (Non-preemptive) และ Round Robin (RR) โดยผู้ใช้งานสามารถเปรียบเทียบผลลัพธ์ของแต่ละอัลกอริทึมได้
 
